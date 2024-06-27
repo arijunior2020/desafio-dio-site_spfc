@@ -8,9 +8,7 @@ Este desafio consiste em treinar você com relação a estrutura do site, e tamb
 ## Desafio
 Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
-
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+Usei o SPFC como modelo para criação desse desafio, pratiquei bastante o que aprendi de HTML, inclusive as novas tags do HTML 5 e também inclui algumas configurações de CSS.
 
 ## Links úteis
 - [Download do NVDA](https://www.nvaccess.org/download/)
